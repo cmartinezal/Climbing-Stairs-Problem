@@ -34,3 +34,22 @@ Each time you can either climb 1 or 2 steps. In how many distinct ways can you c
 ### Reference for problem description
 
 [LeetCode: Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
+
+## Getting Started
+
+Let's start to use this project.\
+There is a python file with the code and a Jupyter Notebook to visualize the code execution in your browser.
+
+### Prerequisites
+
+Python 3 must be installed.
+
+### Installation
+
+To execute the project open the terminal and go to the project folder. Then execute it with python:
+
+```sh
+python3 climbing_stairs.py
+```
+
+You can also use Jupyter Notebook to execute it in your browser or text editor directly.
